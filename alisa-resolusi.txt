@@ -1,4 +1,5 @@
 ALISA RESOLUSI
--Konsisten unntuk belajar github
+-Konsisten untuk belajar github
 -Membuat file dengan benar
 -membuat forum diskusi
+-konsisten  untuk belajar laravel
