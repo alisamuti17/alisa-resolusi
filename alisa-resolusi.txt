@@ -2,4 +2,4 @@ ALISA RESOLUSI
 -Konsisten untuk belajar github
 -Membuat file dengan benar
 -membuat forum diskusi
--konsisten  untuk belajar laravel
+-harus mengerti tentang github
